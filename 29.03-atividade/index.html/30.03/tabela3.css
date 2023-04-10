@@ -1,0 +1,18 @@
+table, td{
+    border:1px solid black;
+    /*border-collapse: collapse; /*bordas colapsem em uma única borda*/
+}
+
+td{
+    border-radius: 10px;
+}
+
+table{
+    width: 300px;
+    height: 50px;
+}
+
+
+.linha2{
+    background-color: rgb(121, 61, 207);
+}

@@ -1,0 +1,11 @@
+th{
+ border:solid 1px green; 
+}
+
+th{
+    background-color: green;
+}
+
+table{
+    width: 500px;
+}

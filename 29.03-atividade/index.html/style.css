@@ -1,0 +1,22 @@
+.titulopricipal{
+background-color: darkgreen;
+color: white;
+text-align: center;
+}
+
+.titulo2{
+    text-align: right;
+}
+.paragrafo{
+    text-align: justify;
+}
+
+a{
+    text-decoration: none; color: black;
+}
+
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
+
